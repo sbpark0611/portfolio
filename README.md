@@ -2,15 +2,15 @@
 
 https://www.sangbin-portfolio.n-e.kr
 
-<img width="1422" alt="Screenshot 2023-10-26 at 7 26 38 PM" src="https://github.com/sbpark0611/portfolio/assets/101174826/f7322dc4-533e-439f-a6ed-f03dcdd03a2f" width="80%" height="80%" />
+<img width="1422" alt="Screenshot 2023-10-26 at 7 26 38 PM" src="https://github.com/sbpark0611/portfolio/assets/101174826/f7322dc4-533e-439f-a6ed-f03dcdd03a2f">
 
-<img width="1428" alt="Screenshot 2023-10-26 at 7 26 59 PM" src="https://github.com/sbpark0611/portfolio/assets/101174826/837174b4-dc16-4fd5-b84c-d044f5caafbb" width="50%" height="50%">
+<img width="1428" alt="Screenshot 2023-10-26 at 7 26 59 PM" src="https://github.com/sbpark0611/portfolio/assets/101174826/837174b4-dc16-4fd5-b84c-d044f5caafbb">
 
-<img width="1436" alt="Screenshot 2023-10-26 at 7 27 48 PM" src="https://github.com/sbpark0611/portfolio/assets/101174826/744c11a2-91c6-4d87-95c5-ee3b462d21c7" width="50%" height="50%">
+<img width="1436" alt="Screenshot 2023-10-26 at 7 27 48 PM" src="https://github.com/sbpark0611/portfolio/assets/101174826/744c11a2-91c6-4d87-95c5-ee3b462d21c7">
 
-<img width="1430" alt="Screenshot 2023-10-26 at 7 28 04 PM" src="https://github.com/sbpark0611/portfolio/assets/101174826/6d4684bf-9f1f-4c54-94e6-5d5a9a0b3990" width="50%" height="50%">
+<img width="1430" alt="Screenshot 2023-10-26 at 7 28 04 PM" src="https://github.com/sbpark0611/portfolio/assets/101174826/6d4684bf-9f1f-4c54-94e6-5d5a9a0b3990">
 
-<img width="1430" alt="Screenshot 2023-10-26 at 7 28 24 PM" src="https://github.com/sbpark0611/portfolio/assets/101174826/0385fe02-197e-411c-933c-1ce1ac88f105" width="50%" height="50%">
+<img width="1430" alt="Screenshot 2023-10-26 at 7 28 24 PM" src="https://github.com/sbpark0611/portfolio/assets/101174826/0385fe02-197e-411c-933c-1ce1ac88f105">
 
 ## 기술 스택
 
