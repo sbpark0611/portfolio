@@ -2,7 +2,7 @@
 
 https://www.sangbin-portfolio.n-e.kr
 
-<img width="1422" alt="Screenshot 2023-10-26 at 7 26 38 PM" src="https://github.com/sbpark0611/portfolio/assets/101174826/f7322dc4-533e-439f-a6ed-f03dcdd03a2f" height="500">
+<img width="1422" alt="Screenshot 2023-10-26 at 7 26 38 PM" src="https://github.com/sbpark0611/portfolio/assets/101174826/f7322dc4-533e-439f-a6ed-f03dcdd03a2f" height="200">
 
 <img width="1428" alt="Screenshot 2023-10-26 at 7 26 59 PM" src="https://github.com/sbpark0611/portfolio/assets/101174826/837174b4-dc16-4fd5-b84c-d044f5caafbb" height="500">
 
