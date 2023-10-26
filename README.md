@@ -2,7 +2,7 @@
 
 https://www.sangbin-portfolio.n-e.kr
 
-<img width="1422" alt="Screenshot 2023-10-26 at 7 26 38 PM" src="https://github.com/sbpark0611/portfolio/assets/101174826/f7322dc4-533e-439f-a6ed-f03dcdd03a2f" width="50%" height="50%">
+<img width="1422" alt="Screenshot 2023-10-26 at 7 26 38 PM" src="https://github.com/sbpark0611/portfolio/assets/101174826/f7322dc4-533e-439f-a6ed-f03dcdd03a2f" width="80%" height="80%" />
 
 <img width="1428" alt="Screenshot 2023-10-26 at 7 26 59 PM" src="https://github.com/sbpark0611/portfolio/assets/101174826/837174b4-dc16-4fd5-b84c-d044f5caafbb" width="50%" height="50%">
 
@@ -34,7 +34,7 @@ https://www.sangbin-portfolio.n-e.kr
 
 ### db 연결
 
-<img width="1268" alt="Screenshot 2023-10-26 at 7 34 08 PM" src="https://github.com/sbpark0611/portfolio/assets/101174826/fb972997-d58d-4508-a823-d8f1e0c8cc26" width="10%" height="10%">
+<img width="1268" alt="Screenshot 2023-10-26 at 7 34 08 PM" src="https://github.com/sbpark0611/portfolio/assets/101174826/fb972997-d58d-4508-a823-d8f1e0c8cc26">
 
 - 처음 접속시 spring 서버에 데이터 요청 -> db로부터 데이터 수신
 
@@ -42,7 +42,7 @@ https://www.sangbin-portfolio.n-e.kr
 
 ### 도메인 연결
 
-- elastic ip 생성 후 https://www.sangbin-portfolio.n-e.kr와 연결
+- elastic ip 생성 후 https://www.sangbin-portfolio.n-e.kr 와 연결
 
 ### https 설정
 
