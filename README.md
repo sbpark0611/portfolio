@@ -34,7 +34,7 @@ https://www.sangbin-portfolio.n-e.kr
 
 ### db 연결
 
-<img width="1268" alt="Screenshot 2023-10-26 at 7 34 08 PM" src="https://github.com/sbpark0611/portfolio/assets/101174826/fb972997-d58d-4508-a823-d8f1e0c8cc26" width="50%" height="50%">
+<img width="1268" alt="Screenshot 2023-10-26 at 7 34 08 PM" src="https://github.com/sbpark0611/portfolio/assets/101174826/fb972997-d58d-4508-a823-d8f1e0c8cc26" width="10%" height="10%">
 
 - 처음 접속시 spring 서버에 데이터 요청 -> db로부터 데이터 수신
 
