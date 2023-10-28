@@ -36,9 +36,15 @@ https://www.sangbin-portfolio.n-e.kr
 
 <img width="1268" alt="Screenshot 2023-10-26 at 7 34 08 PM" src="https://github.com/sbpark0611/portfolio/assets/101174826/fb972997-d58d-4508-a823-d8f1e0c8cc26">
 
-- 처음 접속시 spring 서버에 데이터 요청 -> db로부터 데이터 수신
+- 최초 접속시 spring 서버에 데이터 요청 -> db로부터 데이터 수신
 
 - db 구조: education table, experience table, project table, skill table
+
+### 차트
+
+- recharts를 사용해 막대 그래프 그림
+
+- 받아온 데이터에서 사용된 skill 빈도를 계산한 후 그래프 작성
 
 ### 도메인 연결
 
